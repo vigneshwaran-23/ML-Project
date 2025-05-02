@@ -1,0 +1,182 @@
+song_id,song_name,singer,music_director,language,Popularity,Danceability,Duration(ms),Energy,Instrumentalness,Key,Liveliness,Loudness(dB),Mode,Speechiness,Tempo,Time_Signature,Valence(float)
+1,Marana Mass,Anirudh Ravichander,Anirudh Ravichander,Tamil,95,0.8,210000,0.85,0.02,1,0.66,-5.2,1,0.03,132,4,0.89
+2,Vaathi Coming,Vijay,Rahman,Tamil,90,0.75,220000,0.8,0.03,7,0.4,-5.5,1,0.02,130,4,0.78
+3,Rowdy Baby,Dhee,Yuvan Shankar Raja,Tamil,95,0.9,230000,0.85,0.01,4,0.45,-4.8,1,0.05,125,4,0.82
+4,Chill Bro,Dhanush,Santhosh Narayanan,Tamil,88,0.83,240000,0.76,0.02,3,0.5,-6,0,0.04,118,4,0.79
+5,Enjoy Enjaami,Dhee,Santhosh Narayanan,Tamil,97,0.95,250000,0.9,0,6,0.6,-3.5,1,0.03,115,4,0.87
+6,Rakita Rakita,Dhanush,Anirudh Ravichander,Tamil,89,0.78,200000,0.72,0.04,2,0.48,-5.8,1,0.06,122,4,0.76
+7,Master The Blaster,Anirudh Ravichander,Anirudh Ravichander,Tamil,92,0.88,210000,0.82,0.03,5,0.37,-5.1,1,0.05,128,4,0.85
+8,Aalaporan Thamizhan,Sid Sriram,Rahman,Tamil,94,0.87,245000,0.9,0.02,6,0.42,-4.9,1,0.04,115,4,0.83
+9,Inna Mylu,Anthony Daasan,Vivek-Mervin,Tamil,87,0.8,220000,0.73,0.01,4,0.39,-6.3,1,0.07,130,4,0.74
+10,Marana Mass,S.P. Balasubrahmanyam,Anirudh Ravichander,Tamil,91,0.85,230000,0.81,0.03,7,0.43,-5.2,1,0.02,126,4,0.81
+11,Sodakku,Anthony Daasan,Anirudh Ravichander,Tamil,85,0.75,215000,0.77,0.05,2,0.4,-6.1,1,0.06,124,4,0.79
+12,Why This Kolaveri Di,Dhanush,Anirudh Ravichander,Tamil,98,0.96,255000,0.92,0.01,5,0.47,-4.2,1,0.02,110,4,0.88
+13,Vera Level Sago,Anirudh Ravichander,Hiphop Tamizha,Tamil,88,0.81,205000,0.7,0.03,3,0.35,-6.5,0,0.05,120,4,0.75
+14,Thalli Pogathey,Sid Sriram,Rahman,Tamil,93,0.86,235000,0.82,0.02,4,0.44,-5,1,0.03,118,4,0.8
+15,Vathi Raid,Anirudh Ravichander,Anirudh Ravichander,Tamil,95,0.88,210000,0.83,0.03,5,0.39,-5.3,1,0.04,130,4,0.84
+16,Aathi,Vijay,Rahman,Tamil,86,0.74,225000,0.7,0.02,7,0.36,-6.7,1,0.03,125,4,0.73
+17,Megham Karukatha,Sid Sriram,G.V. Prakash Kumar,Tamil,92,0.84,215000,0.8,0.03,6,0.41,-5.4,1,0.04,118,4,0.81
+18,Oththa Sollaala,Vijay Antony,Vijay Antony,Tamil,88,0.8,230000,0.75,0.02,4,0.33,-6.6,0,0.03,120,4,0.78
+19,Vilambara Idaiveli,Anirudh Ravichander,Santhosh Narayanan,Tamil,90,0.86,210000,0.8,0.03,5,0.47,-5.1,1,0.04,122,4,0.82
+20,Uyire,Sid Sriram,G.V. Prakash Kumar,Tamil,95,0.89,250000,0.85,0.01,6,0.5,-4.3,1,0.02,115,4,0.85
+21,Kutti Story,Vijay,Anirudh Ravichander,Tamil,93,0.87,220000,0.82,0.02,3,0.44,-5,1,0.04,130,4,0.82
+22,Vikram Title Track,Anirudh Ravichander,Anirudh Ravichander,Tamil,91,0.85,200000,0.7,0.03,5,0.39,-5.5,0,0.05,128,4,0.79
+23,Rendu Kaadhal,Sid Sriram,A.R. Rahman,Tamil,89,0.75,210000,0.73,0.02,6,0.41,-5.9,1,0.06,122,4,0.74
+24,So Baby,Anirudh Ravichander,Anirudh Ravichander,Tamil,90,0.88,240000,0.76,0.01,5,0.45,-5.7,1,0.04,124,4,0.77
+25,Mudhal Nee Mudivum Nee,Darshan,Ramesh Tamilmani,Tamil,94,0.86,250000,0.79,0.01,4,0.48,-4.9,1,0.03,115,4,0.84
+26,Meherezylaa,Arivu,A.R. Rahman,Tamil,92,0.82,260000,0.81,0.03,6,0.42,-5.3,1,0.05,123,4,0.83
+27,Pathala Pathala,Kamal Haasan,Anirudh Ravichander,Tamil,97,0.91,230000,0.87,0.02,3,0.43,-4.8,1,0.02,128,4,0.9
+28,Enna Sonna,Sid Sriram,Harris Jayaraj,Tamil,85,0.79,245000,0.75,0.03,5,0.41,-6.3,1,0.04,120,4,0.8
+29,Kaatre En Vaasal,Harini,A.R. Rahman,Tamil,87,0.72,260000,0.73,0.02,4,0.35,-6.1,0,0.03,125,4,0.77
+30,Thamizhan Endru Sollada,Anirudh Ravichander,D.Imman,Tamil,89,0.85,210000,0.79,0.01,5,0.49,-5.5,1,0.02,130,4,0.81
+31,Aambalaikum Pombalaikum,Anirudh Ravichander,Santhosh Narayanan,Tamil,92,0.8,215000,0.77,0.01,7,0.45,-5.2,1,0.06,124,4,0.8
+32,Thangamey,Anirudh Ravichander,Anirudh Ravichander,Tamil,94,0.88,225000,0.8,0.01,6,0.44,-5.1,1,0.03,121,4,0.83
+33,Kanave Kanave,Karthik,Harris Jayaraj,Tamil,90,0.87,240000,0.81,0.03,5,0.43,-5.4,1,0.04,120,4,0.79
+34,Mannipaaya,Shreya Ghoshal,A.R. Rahman,Tamil,87,0.79,230000,0.77,0.02,4,0.39,-6.5,1,0.05,123,4,0.8
+35,Maari Thara Local,Dhanush,Anirudh Ravichander,Tamil,93,0.9,225000,0.85,0.01,5,0.47,-5,1,0.04,126,4,0.85
+36,Sanda Kozhi,Anirudh Ravichander,Yuvan Shankar Raja,Tamil,85,0.77,215000,0.72,0.02,3,0.42,-6.6,1,0.06,120,4,0.76
+37,Uyirin Uyire,Harisankar,Vidyasagar,Tamil,89,0.82,255000,0.79,0.01,6,0.43,-5.7,1,0.03,118,4,0.8
+38,Idhu Varai,Yuvan Shankar Raja,Yuvan Shankar Raja,Tamil,92,0.88,240000,0.82,0.01,7,0.41,-5.2,1,0.05,123,4,0.83
+39,Aaluma Doluma,Anirudh Ravichander,Anirudh Ravichander,Tamil,97,0.91,220000,0.87,0.03,5,0.5,-4.6,1,0.03,127,4,0.88
+40,Sanda Veerachi,Santhosh Narayanan,Santhosh Narayanan,Tamil,94,0.85,230000,0.8,0.02,3,0.46,-5.1,1,0.05,128,4,0.84
+41,Anbe Anbe,Karthik,Vidyasagar,Tamil,88,0.78,250000,0.73,0.02,4,0.39,-6.3,1,0.04,115,4,0.79
+42,Verithanam,Vijay,A.R. Rahman,Tamil,96,0.9,210000,0.85,0.01,5,0.45,-4.8,1,0.03,130,4,0.9
+43,Mersalaayitten,Anirudh Ravichander,A.R. Rahman,Tamil,91,0.87,220000,0.82,0.03,6,0.42,-5.4,1,0.04,125,4,0.84
+44,Kaatre Veliyidai Kannamma,Benny Dayal,A.R. Rahman,Tamil,89,0.76,240000,0.7,0.02,7,0.38,-6.1,0,0.03,122,4,0.78
+45,Dhom Dhom,Dhanush,Vidyasagar,Tamil,85,0.8,225000,0.74,0.01,3,0.36,-6.6,1,0.05,120,4,0.76
+46,Karuthavanlaam Galeejam,Anirudh Ravichander,Santhosh Narayanan,Tamil,95,0.89,210000,0.86,0.01,5,0.44,-5,1,0.04,128,4,0.85
+47,Oru Vanchi Paattu,Sid Sriram,Santhosh Narayanan,Tamil,88,0.8,250000,0.77,0.02,4,0.41,-6.3,1,0.06,115,4,0.79
+48,Adiye,Sid Sriram,A.R. Rahman,Tamil,92,0.83,230000,0.8,0.02,7,0.43,-5.5,1,0.05,123,4,0.82
+49,Nee Kavithaigala,Haricharan,A.R. Rahman,Tamil,94,0.88,220000,0.81,0.01,5,0.47,-5.2,1,0.04,127,4,0.85
+50,Maya Nadhi,Anirudh Ravichander,Santhosh Narayanan,Tamil,96,0.9,200000,0.88,0.01,3,0.46,-4.9,1,0.02,128,4,0.9
+51,Vachinde,Mohana Bhogaraju,Devi Sri Prasad,Telugu,85,0.84,220000,0.75,0.01,5,0.61,-6,1,0.1,125,4,0.85
+52,Pilla Ra,Anurag Kulkarni,Chaitan Bharadwaj,Telugu,82,0.8,225000,0.78,0.02,6,0.55,-5.5,1,0.12,130,4,0.83
+53,Yenti Yenti,Kaala Bhairava,Gopi Sundar,Telugu,80,0.77,210000,0.68,0.02,3,0.6,-5.8,0,0.15,115,4,0.81
+54,Hamsa Naava,Sid Sriram,MM Keeravani,Telugu,87,0.79,240000,0.83,0.01,7,0.65,-4.7,1,0.18,128,4,0.87
+55,Samajavaragamana,Sid Sriram,Thaman S,Telugu,95,0.88,230000,0.74,0,5,0.64,-5.9,1,0.12,120,4,0.89
+56,Viral Song,Anurag Kulkarni,Shravan Bharadwaj,Telugu,78,0.76,215000,0.7,0.03,2,0.58,-6.3,1,0.13,122,4,0.78
+57,Oo Bava,Shravana Bhargavi,Sri Mani,Telugu,77,0.74,208000,0.69,0.04,9,0.54,-5.4,1,0.16,121,4,0.77
+58,Daachuko,Ghantasala Sai Srinivas,Thaman S,Telugu,81,0.79,245000,0.71,0.01,10,0.57,-4.8,1,0.11,127,4,0.84
+59,Ramuloo Ramulaa,Anurag Kulkarni,Thaman S,Telugu,90,0.86,218000,0.76,0.02,8,0.62,-5.7,1,0.1,126,4,0.88
+60,Inkem Inkem,Sid Sriram,Gopi Sundar,Telugu,93,0.82,222000,0.73,0,1,0.63,-5.6,0,0.13,115,4,0.9
+61,Nuvvostanante,Ghantasala Venkatesh,Mani Sharma,Telugu,79,0.78,205000,0.67,0.02,2,0.52,-6.4,0,0.17,118,4,0.79
+62,Maguva Maguva,Sid Sriram,Thaman S,Telugu,92,0.84,215000,0.79,0.01,4,0.63,-5.3,1,0.14,121,4,0.88
+63,Dimaak Kharaab,Dhanunjay,Sri Charan,Telugu,83,0.81,210000,0.72,0.03,7,0.56,-5.5,1,0.12,123,4,0.82
+64,Evare,Vijay Yesudas,Gopi Sundar,Telugu,89,0.8,235000,0.68,0.02,3,0.64,-6.1,1,0.16,119,4,0.85
+65,Pranamam,Chinmayi Sripada,Radhan,Telugu,82,0.77,228000,0.65,0.01,9,0.55,-6.2,0,0.18,124,4,0.82
+66,Chiru Chiru,Sid Sriram,Justin Prabhakaran,Telugu,84,0.83,238000,0.71,0.02,10,0.61,-5.9,1,0.14,120,4,0.87
+67,Solo Brathuke So Better,Armaan Malik,Thaman S,Telugu,88,0.86,240000,0.73,0.01,6,0.66,-4.9,1,0.11,127,4,0.89
+68,Kanulanu Thaake,Sid Sriram,Gopi Sundar,Telugu,85,0.78,222000,0.67,0.02,2,0.6,-6.5,0,0.15,116,4,0.83
+69,Dil Se Dil Se,Anurag Kulkarni,Thaman S,Telugu,87,0.79,211000,0.76,0.01,5,0.59,-5.7,1,0.13,125,4,0.86
+70,Jigelu Rani,Revanth,Raghu Dixit,Telugu,86,0.81,230000,0.74,0,1,0.61,-5.5,1,0.12,122,4,0.85
+71,Idhe Kadha Nee Katha,Anurag Kulkarni,Thaman S,Telugu,79,0.78,223000,0.66,0.02,4,0.53,-6.8,1,0.16,119,4,0.81
+72,Butta Bomma,Armaan Malik,Thaman S,Telugu,95,0.89,208000,0.76,0.01,6,0.64,-5.1,1,0.1,128,4,0.9
+73,Oh Priya Priya,Vijay Prakash,Harris Jayaraj,Telugu,80,0.75,232000,0.68,0.03,7,0.57,-6,0,0.12,123,4,0.8
+74,Mellaga Mellaga,Chitra,Keeravani,Telugu,82,0.73,225000,0.7,0.02,8,0.56,-5.9,1,0.13,120,4,0.83
+75,Naatu Naatu,Kaala Bhairava,MM Keeravani,Telugu,98,0.91,215000,0.82,0.01,5,0.67,-4.7,1,0.11,130,4,0.94
+76,Sarrainodu,Sid Sriram,SS Thaman,Telugu,91,0.88,240000,0.8,0,9,0.65,-5,1,0.14,122,4,0.92
+77,Vachadayyo Saami,Shankar Mahadevan,Devi Sri Prasad,Telugu,92,0.87,225000,0.74,0.01,6,0.62,-5.2,1,0.11,125,4,0.89
+78,Yenti Yenti,Kaala Bhairava,Gopi Sundar,Telugu,84,0.8,230000,0.7,0.02,3,0.6,-6.4,1,0.17,118,4,0.85
+79,Nammaku Nammaku,Srikrishna,Anup Rubens,Telugu,77,0.74,212000,0.63,0.04,7,0.53,-6.2,1,0.18,123,4,0.78
+80,Oopiri Aaguthunnadey,Hemachandra,Gopi Sundar,Telugu,89,0.83,240000,0.78,0,5,0.61,-5.4,1,0.11,124,4,0.86
+100,Seetharama Kalyanam,Mohana Bhogaraju,Devi Sri Prasad,Telugu,84,0.78,235000,0.69,0.03,10,0.5,-6,1,0.06,120,4,0.83
+101,Munnaalae,S.P. Balasubrahmanyam,Harris Jayaraj,Tamil,90,0.78,220000,0.71,0.01,5,0.61,-5.8,1,0.11,120,4,0.85
+102,Mudhal Naal Indru,Harini,A.R. Rahman,Tamil,88,0.82,228000,0.69,0.02,7,0.62,-6,0,0.12,123,4,0.83
+103,Evano Oruvan,Sudha Raghunathan,A.R. Rahman,Tamil,85,0.79,235000,0.64,0.02,8,0.56,-5.5,0,0.1,118,4,0.81
+104,Uyirin Uyire,Karthik,Harris Jayaraj,Tamil,92,0.86,210000,0.73,0.01,9,0.66,-6.2,1,0.14,122,4,0.87
+105,Suttum Vizhi,Chinmayi,G.V. Prakash Kumar,Tamil,83,0.76,218000,0.68,0.03,3,0.55,-6,1,0.13,115,4,0.79
+106,Ennai Konjam Matri,Akkam Pakkam,Sid Sriram,Tamil,85,0.8,225000,0.67,0.01,5,0.64,-5.7,0,0.15,130,4,0.84
+107,Vaseegara,Bombay Jayashree,Harris Jayaraj,Tamil,95,0.88,222000,0.75,0.01,2,0.63,-5.9,1,0.12,124,4,0.9
+108,Azhagiya Theeye,Karthik,Harris Jayaraj,Tamil,87,0.81,240000,0.71,0.02,7,0.57,-5.6,0,0.16,119,4,0.88
+109,Aaruyire,Benny Dayal,A.R. Rahman,Tamil,89,0.83,232000,0.72,0.01,8,0.65,-6.1,1,0.14,126,4,0.85
+110,Kangal Irandal,Bella Shende,James Vasanthan,Tamil,92,0.86,215000,0.77,0,4,0.66,-5.3,1,0.11,128,4,0.91
+111,Oru Naalil,Unni Menon,Harris Jayaraj,Tamil,81,0.77,205000,0.64,0.02,6,0.58,-6.5,1,0.13,122,4,0.8
+112,June Pona,Vijay Yesudas,Harris Jayaraj,Tamil,84,0.79,210000,0.69,0.02,9,0.61,-6,1,0.14,125,4,0.83
+113,Marudhaani,Sadhana Sargam,A.R. Rahman,Tamil,88,0.82,235000,0.72,0.01,8,0.63,-5.9,1,0.15,120,4,0.87
+114,Ennavale Adi Ennavale,S.P. Balasubrahmanyam,A.R. Rahman,Tamil,95,0.9,228000,0.8,0,7,0.67,-5.2,1,0.1,129,4,0.92
+115,Nenjukkul Peidhidum,Hariharan,Harris Jayaraj,Tamil,93,0.88,245000,0.74,0.01,6,0.66,-5.4,1,0.13,127,4,0.9
+116,Engeyum Kaadhal,Aalaap Raju,Harris Jayaraj,Tamil,85,0.81,218000,0.68,0.02,5,0.6,-6.3,1,0.12,121,4,0.85
+117,Sahana,A.R. Rahman,A.R. Rahman,Tamil,87,0.84,225000,0.73,0.01,3,0.62,-5.7,0,0.14,124,4,0.88
+118,Kaadhal Sadugudu,S.P. Balasubrahmanyam,A.R. Rahman,Tamil,82,0.78,240000,0.69,0.02,4,0.55,-6.4,1,0.16,122,4,0.82
+119,Kannukkul Kannai,Shankar Mahadevan,A.R. Rahman,Tamil,90,0.85,230000,0.75,0.01,9,0.61,-5.8,1,0.1,120,4,0.87
+120,Omana Penne,Karthik,A.R. Rahman,Tamil,89,0.83,223000,0.72,0.01,10,0.63,-5.6,1,0.13,123,4,0.86
+121,New York Nagaram,A.R. Rahman,A.R. Rahman,Tamil,94,0.9,238000,0.79,0.01,7,0.66,-5.1,0,0.12,126,4,0.91
+122,Kangalal Kaidhu Sei,Srinivas,A.R. Rahman,Tamil,91,0.87,245000,0.76,0,6,0.67,-5.5,1,0.11,128,4,0.89
+123,Anbe Anbe,S.P. Balasubrahmanyam,A.R. Rahman,Tamil,83,0.79,225000,0.68,0.03,5,0.58,-6.2,1,0.15,118,4,0.82
+124,Paartha Mudhal Naale,Bombay Jayashree,Harris Jayaraj,Tamil,86,0.82,240000,0.71,0.02,8,0.64,-5.7,0,0.14,122,4,0.86
+125,Suttum Vizhi Chudare,Karthik,G.V. Prakash Kumar,Tamil,89,0.85,212000,0.69,0.02,9,0.62,-5.9,1,0.13,125,4,0.88
+126,Anjala,Jassie Gift,Vidyasagar,Tamil,84,0.78,235000,0.65,0.02,3,0.61,-6,1,0.11,123,4,0.83
+127,Uyire Uyire,Unnikrishnan,A.R. Rahman,Tamil,92,0.87,218000,0.73,0.01,5,0.63,-5.5,1,0.12,122,4,0.89
+128,Aathichudi,Naresh Iyer,G.V. Prakash Kumar,Tamil,85,0.81,228000,0.71,0.01,4,0.66,-6.1,0,0.14,124,4,0.87
+129,Pookkalae Sattru Oyivedungal,Haricharan,A.R. Rahman,Tamil,94,0.9,230000,0.79,0,6,0.65,-5.3,1,0.1,128,4,0.91
+130,Vennilave Vennilave,Hariharan,A.R. Rahman,Tamil,96,0.92,220000,0.81,0,7,0.67,-5.4,0,0.11,129,4,0.93
+131,Mudhal Kanave,Naveen,Harris Jayaraj,Tamil,89,0.84,225000,0.72,0.02,8,0.64,-6,1,0.14,122,4,0.86
+132,Kaadhal Rojave,Unnikrishnan,A.R. Rahman,Tamil,87,0.81,240000,0.7,0.02,5,0.62,-5.8,1,0.13,120,4,0.85
+133,Vizhigalil Oru Vaanavil,Haricharan,Harris Jayaraj,Tamil,88,0.82,218000,0.69,0.01,9,0.59,-5.9,1,0.14,125,4,0.87
+134,Ennamo Yeadho,Siddharth Mahadevan,Harris Jayaraj,Tamil,84,0.78,230000,0.66,0.03,8,0.6,-6.3,0,0.12,118,4,0.83
+135,Kaadhalin Deepam Ondru,S.P. Balasubrahmanyam,A.R. Rahman,Tamil,90,0.85,215000,0.74,0.01,6,0.61,-5.6,1,0.1,121,4,0.88
+136,Yaarumilla,Shakthisree Gopalan,A.R. Rahman,Tamil,91,0.87,228000,0.72,0.01,7,0.62,-5.9,1,0.13,124,4,0.9
+137,Pudhu Vellai Mazhai,K.S. Chithra,A.R. Rahman,Tamil,93,0.88,240000,0.75,0.01,5,0.64,-5.5,0,0.11,127,4,0.91
+138,Uyirin Uyire,Vijay Prakash,Harris Jayaraj,Tamil,85,0.8,235000,0.68,0.02,3,0.6,-5.7,1,0.15,122,4,0.84
+139,Idhu Varai,Yuvan Shankar Raja,Yuvan Shankar Raja,Tamil,89,0.83,245000,0.7,0.02,6,0.66,-6.1,1,0.12,124,4,0.86
+140,Aathichudi,Karthik,G.V. Prakash Kumar,Tamil,87,0.81,222000,0.71,0.01,4,0.63,-6,1,0.13,121,4,0.85
+141,Irukkana,Yuvan Shankar Raja,Yuvan Shankar Raja,Tamil,84,0.79,235000,0.66,0.02,5,0.57,-5.9,0,0.15,118,4,0.82
+142,Kannathil Muthamittal,Chinmayi,A.R. Rahman,Tamil,93,0.9,228000,0.73,0,7,0.62,-5.4,1,0.1,123,4,0.9
+143,Munbe Vaa,Shreya Ghoshal,A.R. Rahman,Tamil,95,0.91,245000,0.76,0,6,0.65,-5.2,1,0.11,125,4,0.92
+144,Thalli Pogathey,Haricharan,A.R. Rahman,Tamil,92,0.88,238000,0.74,0.01,8,0.66,-5.3,1,0.13,126,4,0.89
+145,Enna Solla Pogirai,Shankar Mahadevan,Harris Jayaraj,Tamil,87,0.82,240000,0.71,0.02,9,0.6,-5.9,1,0.15,122,4,0.85
+146,Vizhi Moodi,Yuvan Shankar Raja,Yuvan Shankar Raja,Tamil,83,0.79,220000,0.66,0.03,4,0.58,-6,0,0.14,118,4,0.82
+147,Kangal Neeye,S.P. Balasubrahmanyam,Harris Jayaraj,Tamil,89,0.84,235000,0.7,0.01,5,0.6,-6.2,1,0.13,120,4,0.86
+148,Yen Enakku Mayakkam,Sid Sriram,A.R. Rahman,Tamil,91,0.86,215000,0.73,0.01,8,0.63,-5.5,1,0.1,121,4,0.88
+149,Kaatru Veliyidai,Yuvan Shankar Raja,Yuvan Shankar Raja,Tamil,88,0.83,218000,0.71,0.02,7,0.61,-5.8,1,0.12,124,4,0.86
+150,Uyire Uyire,Karthik,Harris Jayaraj,Tamil,94,0.88,225000,0.74,0.01,9,0.62,-5.3,1,0.14,123,4,0.91
+151,Kaise Hua,Vishal Mishra,Amaal Mallik,Hindi,90,0.78,210000,0.71,0.01,5,0.61,-5.5,1,0.11,120,4,0.85
+152,Aankh Marey,Neha Kakkar,Rajesh Roshan,Hindi,88,0.82,180000,0.69,0.02,7,0.62,-6,0,0.12,123,4,0.83
+153,Genda Phool,Badshah,Pritam,Hindi,85,0.79,230000,0.64,0.02,8,0.56,-5.5,0,0.1,118,4,0.81
+154,Chogada,Tanishk Bagchi,Amaal Mallik,Hindi,92,0.86,215000,0.73,0.01,9,0.66,-5.8,1,0.14,122,4,0.87
+155,Vaaste,Diljit Dosanjh,Tanishk Bagchi,Hindi,83,0.76,220000,0.68,0.03,3,0.55,-6.1,1,0.13,115,4,0.79
+156,Shayad,Arijit Singh,Pritam,Hindi,85,0.8,215000,0.67,0.01,5,0.64,-5.7,0,0.15,130,4,0.84
+157,Main Tera,Badshah,Badshah,Hindi,95,0.88,180000,0.75,0.01,2,0.63,-5.9,1,0.14,124,4,0.9
+158,Tum Hi Aana,KK,Payal Dev,Hindi,87,0.81,245000,0.72,0.02,7,0.57,-5.6,0,0.16,119,4,0.88
+159,Dil Diyan Gallan,Atif Aslam,Rocky-Sandeep,Hindi,89,0.83,200000,0.72,0.01,8,0.65,-6,1,0.14,126,4,0.85
+160,Raabta,Arijit Singh,Shreya Ghoshal,Hindi,92,0.86,230000,0.79,0,4,0.66,-5.3,1,0.11,128,4,0.89
+161,Agar Tum Saath Ho,Alka Yagnik,Arijit Singh,Hindi,91,0.87,210000,0.76,0.01,6,0.67,-5.4,1,0.1,126,4,0.88
+162,Khairiyat,Arijit Singh,Shantanu Moitra,Hindi,94,0.89,240000,0.78,0.01,8,0.68,-5.6,1,0.13,129,4,0.92
+163,Pal,Arijit Singh,Shantanu Moitra,Hindi,88,0.82,220000,0.75,0.01,7,0.63,-5.8,1,0.12,125,4,0.86
+164,Mere Sohneya,Akshay Kumar,Akash Soni,Hindi,90,0.88,210000,0.76,0.02,6,0.66,-5.4,1,0.1,128,4,0.91
+165,Kalank,Arijit Singh,Pritam,Hindi,93,0.9,230000,0.81,0,5,0.67,-5.5,1,0.14,126,4,0.9
+166,Gham Chhupana Kaisa,Jubin Nautiyal,Amaal Mallik,Hindi,84,0.79,200000,0.71,0.01,4,0.61,-6,1,0.15,118,4,0.83
+167,Duniya,Niraj Shridhar,Gulraj Singh,Hindi,85,0.8,215000,0.68,0.02,3,0.6,-5.9,1,0.12,124,4,0.84
+168,Tera Ban Jaunga,Akhil Sachdeva,Manj Musik,Hindi,92,0.86,240000,0.74,0.01,5,0.65,-5.6,0,0.11,127,4,0.87
+169,Tum Se Hi,Atif Aslam,AR Rahman,Hindi,91,0.84,210000,0.72,0.01,9,0.64,-5.7,0,0.14,121,4,0.85
+170,Ik Vaari Aa,Arihant,Arijit Singh,Hindi,89,0.82,250000,0.75,0.01,5,0.62,-5.8,1,0.12,126,4,0.86
+171,Jaane De Mujhe,Arijit Singh,Ankit Tiwari,Hindi,90,0.88,220000,0.77,0,6,0.68,-5.2,0,0.1,125,4,0.9
+172,Channa Mereya,Arijit Singh,A.R. Rahman,Hindi,95,0.92,240000,0.8,0,7,0.66,-5.4,1,0.14,128,4,0.92
+173,Baarish,Neha Kakkar,Manoj Muntashir,Hindi,89,0.87,215000,0.74,0.01,5,0.61,-6.2,1,0.15,124,4,0.88
+174,Phir Bhi Tumko Chaahunga,Arijit Singh,Mithoon,Hindi,91,0.9,220000,0.76,0.01,4,0.65,-5.8,1,0.11,122,4,0.89
+175,Jab Tak,Armaan Malik,Shreya Ghoshal,Hindi,94,0.93,230000,0.78,0.01,5,0.66,-5.5,1,0.1,125,4,0.91
+176,Mujhse Dosti Karoge,Rajesh Roshan,Arijit Singh,Hindi,82,0.78,200000,0.69,0.01,8,0.61,-5.7,0,0.14,120,4,0.85
+177,Kahani Suno,Abhijit Vaghani,Nashit Durrani,Hindi,87,0.83,215000,0.71,0.01,6,0.62,-5.5,1,0.12,121,4,0.88
+178,Tum Jo Aaye,Arijit Singh,Shankar Ehsaan Loy,Hindi,90,0.86,230000,0.74,0.01,5,0.65,-5.8,1,0.15,125,4,0.9
+179,Baarish Ban Jaana,Payal Dev,Shrey Singhal,Hindi,88,0.84,220000,0.72,0.01,8,0.66,-5.4,0,0.11,123,4,0.87
+180,Aaja Mexico Challiye,Amar Arshi,Ankit Tiwari,Hindi,93,0.89,200000,0.76,0.01,6,0.67,-5.5,1,0.14,125,4,0.88
+181,Dilbar,Nora Fatehi,Tanishk Bagchi,Hindi,96,0.92,210000,0.8,0,8,0.68,-5.1,1,0.1,127,4,0.92
+182,Brahmastra,Arijit Singh,Pritam,Hindi,90,0.86,240000,0.74,0.01,5,0.66,-5.8,1,0.14,122,4,0.88
+183,Aashiqui Aa Gayi,Arijit Singh,Jeet Ganguly,Hindi,89,0.87,215000,0.73,0.01,6,0.65,-5.7,1,0.11,121,4,0.86
+184,Pehla Nasha,Arijit Singh,Jubin Nautiyal,Hindi,91,0.89,230000,0.76,0,7,0.67,-5.4,1,0.14,124,4,0.88
+185,Saki Saki,Neha Kakkar,Tanishk Bagchi,Hindi,95,0.91,210000,0.79,0.01,9,0.68,-5.5,0,0.1,128,4,0.9
+186,Jab Koi Baat,Badshah,Neha Kakkar,Hindi,85,0.79,220000,0.72,0.01,3,0.62,-5.9,1,0.15,121,4,0.86
+187,Aankh Marey,Neha Kakkar,Rajesh Roshan,Hindi,90,0.84,180000,0.76,0.02,5,0.61,-5.8,0,0.12,126,4,0.85
+188,Gali Gali,Arijit Singh,Arjun Janya,Hindi,92,0.87,210000,0.73,0.01,4,0.64,-5.6,1,0.14,128,4,0.89
+189,Tera Hone Laga Hoon,Atif Aslam,Alisha Chinai,Hindi,94,0.89,230000,0.75,0.01,6,0.66,-5.8,0,0.11,123,4,0.86
+190,Saathi Rey,Pritam,Aashiqui,Hindi,85,0.76,220000,0.72,0.01,5,0.63,-5.9,1,0.12,128,4,0.84
+191,Main Tera,Rahat Fateh Ali Khan,Neha Kakkar,Hindi,88,0.81,210000,0.77,0.01,3,0.66,-5.4,0,0.15,125,4,0.87
+192,Mera Wala Dance,Neha Kakkar,Pritam,Hindi,87,0.82,220000,0.74,0.01,4,0.68,-5.3,1,0.14,126,4,0.88
+193,Mere Liye Tum Kaafi Ho,Ankit Tiwari,Pritam,Hindi,90,0.86,210000,0.76,0.01,6,0.65,-5.5,0,0.12,124,4,0.89
+194,Phir Mohabbat,Arijit Singh,Mithoon,Hindi,91,0.87,230000,0.73,0.01,5,0.66,-5.8,0,0.1,126,4,0.88
+195,Tera Ban Jaunga,Akhil Sachdeva,Manj Musik,Hindi,92,0.88,240000,0.74,0.01,6,0.64,-5.7,1,0.12,128,4,0.89
+196,Ae Mere Humsafar,Shreya Ghoshal,Ankit Tiwari,Hindi,90,0.85,220000,0.73,0.01,5,0.66,-5.8,1,0.15,125,4,0.87
+197,Dil Diyan Gallan,Atif Aslam,Rocky-Sandeep,Hindi,93,0.89,240000,0.76,0.01,4,0.67,-5.5,0,0.14,126,4,0.88
+198,Pehli Nazar Mein,Atif Aslam,Shreya Ghoshal,Hindi,94,0.9,230000,0.78,0.01,5,0.68,-5.6,1,0.1,128,4,0.89
+199,Baarish,Kumar Sanu,Pritam,Hindi,85,0.79,215000,0.71,0.01,3,0.64,-5.9,0,0.15,121,4,0.86
+200,Dheere Dheere Se,Badshah,Amaal Mallik,Hindi,92,0.88,230000,0.74,0.01,6,0.66,-5.5,0,0.14,125,4,0.87
