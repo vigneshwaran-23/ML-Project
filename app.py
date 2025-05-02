@@ -11,7 +11,7 @@ import os
 # Load the dataset
 @st.cache_data
 def load_data():
-    df = pd.read_csv("D:\\Vignesh Laptop\\vikki files\\ML PROJ\\Indian_Music.csv")
+    df = pd.read_csv("Indian_Music.csv")
 
     return df
 
